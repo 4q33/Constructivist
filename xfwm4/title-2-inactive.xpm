@@ -1,14 +1,12 @@
 /* XPM */
 static char * title_1_inactive_xpm[] = {
-"1 21 4 1",
+"1 19 4 1",
 " 	c None",
 ".	c #202020",
 "+	c #CFCFCF",
 "@	c #ACACAC",
 ".",
 "+",
-"@",
-"@",
 "@",
 "@",
 "@",
